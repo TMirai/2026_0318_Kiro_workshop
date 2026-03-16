@@ -1,0 +1,2 @@
+# 2026_0318_Kiro_workshop
+2026_0318_Kiro_workshop用のプロンプトや設定値
